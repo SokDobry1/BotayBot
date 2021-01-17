@@ -1,0 +1,30 @@
+{
+  "one_time": true,
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "payload": "{\"special\": \"да\"}",
+          "label": "Да"
+        },
+        "color": "positive"
+      },
+      {
+        "action": {
+          "type": "text",
+          "payload": "{\"special\": \"нет\"}",
+          "label": "Нет"
+        },
+        "color": "negative"
+      }
+    ]
+  ]
+}
+
+
+
+
+
+
+

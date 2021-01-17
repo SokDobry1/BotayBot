@@ -1,0 +1,63 @@
+{
+  "one_time": true,
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "ДЗ"
+        },
+        "color": "positive"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "Панель администратора"
+        },
+        "color": "primary"
+      }
+    ],
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "Расписание"
+        },
+        "color": "secondary"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "Преподаватели"
+        },
+        "color": "secondary"
+      }
+    ],
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "Рассылка"
+        },
+        "color": "secondary"
+      },
+      {
+        "action": {
+        "type": "text",
+        "label": "Выйти из группы"
+        },
+        "color": "negative"
+      }
+    ]
+  ]
+}
+
+
+
+
+
+
+
+
+
+

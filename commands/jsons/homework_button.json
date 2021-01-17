@@ -1,0 +1,37 @@
+{
+  "one_time": true,
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "Актуальное дз"
+        },
+        "color": "primary"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "Архив дз"
+        },
+        "color": "secondary"
+      }
+    ],
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "Главная"
+        },
+        "color": "positive"
+      }
+    ]
+  ]
+}
+
+
+
+
+
+
+

@@ -1,0 +1,22 @@
+{
+  "one_time": true,
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "payload": "{\"special\": \"отмена\"}",
+          "label": "Отмена"
+        },
+        "color": "negative"
+      }
+    ]
+  ]
+}
+
+
+
+
+
+
+

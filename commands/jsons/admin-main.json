@@ -1,0 +1,30 @@
+{
+  "one_time": true,
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "Панель администратора"
+        },
+        "color": "primary"
+      }
+    ],
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "Главная"
+        },
+        "color": "positive"
+      }
+    ]
+  ]
+}
+
+
+
+
+
+
+

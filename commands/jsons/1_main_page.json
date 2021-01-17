@@ -1,0 +1,30 @@
+{
+  "one_time": true,
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "Создать"
+        },
+        "color": "primary"
+      },
+
+        {
+        "action": {
+          "type": "text",
+          "label": "Присоединиться"
+        },
+        "color": "primary"
+
+      }
+    ]
+  ]
+}
+
+
+
+
+
+
+
