@@ -1,5 +1,5 @@
-import random
-import sqlite3
+import random  				#Главный файл для общения с базой данных
+import sqlite3 
 from os.path import abspath
 try:
     from vkapi import debug_message

@@ -1,7 +1,7 @@
 #!/home/4LcHEM1ST/.local/bin/python3
 # -*- coding: utf-8 -*-
 
-import UseDataBase as db
+import UseDataBase as db #Программа для автоматического создания команд в базе данных
 import os
 import template as temp
 
