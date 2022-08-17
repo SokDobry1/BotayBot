@@ -6,6 +6,8 @@ from vk_api.longpoll import VkLongPoll, VkEventType
 import message_handler
 from vkapi import longpoll
 
+def timer():
+    import timer
 
 if __name__ == '__main__':
     th_timer = Thread(target=timer)
